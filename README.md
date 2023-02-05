@@ -6,6 +6,10 @@
 ## Bir sayının tüm basamaklarının toplamı tek ise "Odd", çift ise "Even" değerini döndürün. 
 </br> 
 
+
+![screenshot](https://github.com/ipekcdk/akbank_web3_practicum/blob/main/images/1.png)
+
+
 ## Örnek olarak;
 
 </br>
